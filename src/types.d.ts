@@ -1,3 +1,0 @@
-interface LoadingProps {
-  isLoading: boolean;
-}
