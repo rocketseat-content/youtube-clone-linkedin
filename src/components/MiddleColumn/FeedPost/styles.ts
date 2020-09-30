@@ -111,6 +111,7 @@ export const Avatar = styled.img`
   height: 48px;
   border-radius: 50%;
   margin-right: 8px;
+  object-fit: cover;
 `;
 
 export const Column = styled.div``;
