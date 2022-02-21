@@ -4,6 +4,6 @@ import AdBanner from '../components/AdBanner';
 
 export default {
   title: 'LinkedIn/AdBanner',
-} as Meta;
+} as banner;
 
 export { AdBanner };
